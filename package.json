@@ -1,0 +1,25 @@
+{
+  "name": "http-detector",
+  "version": "1.0.0",
+  "description": "a tool to detect http get/post data type",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForeverSc/http-detector.git"
+  },
+  "keywords": [
+    "http",
+    "get",
+    "post",
+    "detect"
+  ],
+  "author": "foreversc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ForeverSc/http-detector/issues"
+  },
+  "homepage": "https://github.com/ForeverSc/http-detector#readme"
+}
